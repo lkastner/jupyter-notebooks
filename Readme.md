@@ -15,5 +15,13 @@ to put them here.
   polytope in `Julia`.
 * `symmetric_fans_jl.ipynb`: How to work with polyhedral fans with a group
   action in `Julia` via `Oscar.jl`.
+* `toric_geometry_jl.ipynb`: Things relevant to toric geometry in Julia via 
+  `Oscar.jl`.
 * `tropical_hypersurface_pm.ipynb`: Pitfalls when checking whether a point is
   contained in a tropical hypersurface in `polymake`.
+
+## References
+* [Julia](https://julialang.org/)
+* [Oscar.jl](https://github.com/oscar-system/Oscar.jl)
+* [Polymake.jl](https://github.com/oscar-system/Polymake.jl)
+* [polymake](https://polymake.org/doku.php)

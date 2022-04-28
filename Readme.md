@@ -19,6 +19,8 @@ to put them here.
   `Oscar.jl`.
 * `tropical_hypersurface_pm.ipynb`: Pitfalls when checking whether a point is
   contained in a tropical hypersurface in `polymake`.
+* `inexact_convex_hull_OSCAR.ipynb`: What breaks when computing convex hulls
+  over floating point numbers.
 
 ## References
 * [Julia](https://julialang.org/)

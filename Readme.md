@@ -6,6 +6,10 @@ frameworks. In the hope that these answers also may benefit others, I decided
 to put them here.
 
 ## List of notebooks
+* `benchmarking.ipynb`: Some examples on how to use `BenchmarkTools.jl` for
+  search algorithms in `Julia`.
+* `benchmarking_convex_hull.ipynb`: How to benchmark different convex hull
+  algorithms used in `polymake` via `Julia`.
 * `equal_support_pm.ipynb`: How to check whether two polyhedral fans have the
   same support in `polymake`.
 * `edges_jl.ipynb`: How to work with the edges of a polytope in `Julia` via

@@ -6,6 +6,8 @@ frameworks. In the hope that these answers also may benefit others, I decided
 to put them here.
 
 ## List of notebooks
+* `kissat_jll_example.ipynb`: Example how to use
+  [kissat](http://fmv.jku.at/kissat/) from `Julia`.
 * `benchmarking.ipynb`: Some examples on how to use `BenchmarkTools.jl` for
   search algorithms in `Julia`.
 * `benchmarking_convex_hull.ipynb`: How to benchmark different convex hull
